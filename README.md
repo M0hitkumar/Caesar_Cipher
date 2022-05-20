@@ -1,6 +1,6 @@
-# Secure Chat
+# Caesar_Cipher
 
-Client side secure chat, based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [asymmetric encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) without open storage on server side.
+Client side Caesar_cipher, based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [asymmetric encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) without open storage on server side.
 
 ![loginform](https://raw.githubusercontent.com/bezzad/SecureChat/master/login.png)
 
